@@ -46,5 +46,4 @@ Special thanks to the Flask and HTMX communities for their fantastic tools and r
 
 ---
 
-**Note:** Make sure you have Python and Flask installed to run this app. If not, you can install Flask using `pip install Flask`.
-```
+**Note:** Make sure you have Python, Flask and Flask-SQLAlchemy installed to run this app. If not, you can install Flask using ```bash pip install Flask``` and Flask-SQLAlchemy using ```bash pip install Flask-SQLAlchemy```.
